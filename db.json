@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "hello",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "ardahan2",
+      "body": "kimsin sen",
+      "publishedAt": "1999-04-21",
+      "id": "tPy03wb"
+    },
+    {
+      "title": "",
+      "body": "",
+      "id": "sPlhO40"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ardahan Özduman",
+      "email": "ardahan08530853@hotmail.com"
+    },
+    {
+      "name": "ardahan",
+      "email": "ardahanoz@hotmail.com",
+      "id": "t6HDPtT"
+    }
+  ]
+}
